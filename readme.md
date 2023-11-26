@@ -1,1 +1,1 @@
-collection of gpu notebook
+This is the repo of GPU assignment
